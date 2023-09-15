@@ -1,57 +1,46 @@
 [
     {
-        "ID": 12345,
+        "ID": 1,
         "Cover": "https://i.ibb.co/30XLPGF/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
         "Title": "The Enchanted Forest",
         "Author": "Jane Doe",
-        "_img": "https://example.com/author1.jpg",
+        "Author_img": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "Posted": "2023-09-15",
         "Date": "2023-09-20",
-        "Reading_Time": "2 hours",
+        "Reading_Time": 9,
         "Hashtags": ["#Fantasy", "#Adventure", "#Bestseller"]
     },
     {
-        "ID": 67890,
+        "ID": 2,
         "Cover": "https://i.ibb.co/4sv4J55/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
         "Title": "Mystery at Midnight Manor",
         "Author": "John Smith",
-        "_img": "https://example.com/author2.jpg",
+        "Author_img": "https://img.freepik.com/premium-vector/man-character_665280-46967.jpg?w=360",
         "Posted": "2023-09-14",
         "Date": "2023-09-25",
-        "Reading_Time": "3.5 hours",
+        "Reading_Time": 7,
         "Hashtags": ["#Mystery", "#Suspense", "#Thriller"]
     },
     {
-        "ID": 24680,
+        "ID": 3,
         "Cover": "https://i.ibb.co/t3KN9j6/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
         "Title": "Love in Paris",
         "Author": "Emily Johnson",
-        "_img": "https://example.com/author3.jpg",
+        "Author_img": "https://img.freepik.com/premium-photo/man-with-glasses-tie-is-wearing-tie_745528-2624.jpg",
         "Posted": "2023-09-13",
         "Date": "2023-09-22",
-        "Reading_Time": "1.5 hours",
+        "Reading_Time": 5,
         "Hashtags": ["#Romance", "#Paris", "#LoveStory"]
     },
     {
-        "ID": 13579,
+        "ID": 4,
         "Cover": "https://i.ibb.co/bKZPbjx/florian-olivo-4hb-J-eym-Z1o-unsplash.jpg",
         "Title": "Science Explorations",
         "Author": "David Roberts",
-        "_img": "https://example.com/author4.jpg",
+        "Author_img": "https://img.freepik.com/free-icon/man_318-157605.jpg?w=2000",
         "Posted": "2023-09-12",
         "Date": "2023-09-21",
-        "Reading_Time": "4 hours",
+        "Reading_Time": 4,
         "Hashtags": ["#Science", "#Exploration", "#Education"]
-    },
-    {
-        "ID": 98765,
-        "Cover": "https://i.ibb.co/TP0wtNF/helena-lopes-PGnq-T0r-XWLs-unsplash.jpg ",
-        "Title": "Cooking Adventures",
-        "Author": "Sarah Wilson",
-        "_img": "https://example.com/author5.jpg",
-        "Posted": "2023-09-11",
-        "Date": "2023-09-19",
-        "Reading_Time": "1 hour",
-        "Hashtags": ["#Cooking", "#Recipes", "#Foodies"]
     }
 ]
